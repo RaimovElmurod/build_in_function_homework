@@ -4,8 +4,11 @@ def main():
 
     Args:
         None
-        
+    
     Returns:
         float: the value of the expression
     """
-    return
+
+    return round(3*(7/5-9/4),2)
+print(main())
+   
